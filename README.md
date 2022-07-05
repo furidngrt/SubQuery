@@ -83,8 +83,8 @@ docker ps
 ```
 ![Screenshot_38](https://user-images.githubusercontent.com/63885192/177284935-d4ffd6a7-65fc-4c16-afe4-79ffe7b2d2b4.png)
 
-## Access your vps IP in browser with additional 8000 ports example http://127.0.0.1:8000
+#### Access your vps IP in browser with additional 8000 ports example http://127.0.0.1:8000
 
 ![Screenshot_39](https://user-images.githubusercontent.com/63885192/177285723-fc1315b2-51bd-419f-b1cd-8844f386d48e.png)
 
-## And complete missions to receive points here https://frontier.subquery.network/missions/my-missions
+#### And complete missions to receive points here https://frontier.subquery.network/missions/my-missions
